@@ -6,6 +6,8 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white)](https://opencv.org/)
 [![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-yellow)](https://github.com/ultralytics/ultralytics)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Author](https://img.shields.io/badge/Author-Hasnain%20Khan-blueviolet.svg)](https://github.com/Hexecutionerr)
 
 A high-performance dual-system computer vision application. 
 Features a **YOLOv8** pipeline for deep-learning Identity Recognition, and a **DNN + Heuristics** pipeline for Mask/Rumal Detection. Built with an Object-Oriented Architecture, hardware optimizations, and robust error handling.
@@ -47,7 +49,7 @@ The application is modularized to ensure separation of concerns. **For an in-dep
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Hexecutionerr/-Real-Time-AI-Face-Tracking-Mask-Detection-Suite.git
    cd Real-Time-Face-Detection-master
    ```
 
@@ -89,3 +91,19 @@ python face_mask_detection.py
 
 Because the architecture is fully decoupled, this project is ready to be ported to the web. 
 Using **Streamlit**, you can transform `main.py` into a web application in under 20 lines of code!
+
+---
+
+## 👨‍💻 Author
+
+**Hasnain Khan**
+* GitHub: [@Hexecutionerr](https://github.com/Hexecutionerr)
+
+---
+
+## 📄 License & Copyright
+
+Copyright (c) 2026 Hasnain Khan.
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details. 
+You are free to use, modify, and distribute this software, provided that you give appropriate credit and include the original copyright notice.
